@@ -2,9 +2,10 @@
 
 
 kelompok 5 :
-- desi
-- dini
-- dzul
-- lyra
-- isna
+- desi (11)
+- dini (12)
+- dzul (13)
+- lyra (18)
+- isna (17)
+
 
